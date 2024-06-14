@@ -6,7 +6,7 @@ Este é um projeto desenvolvido em conjunto com o professor durante as aulas, ut
 ## Funcionalidades
 - TypeScript
 - Next.js
-- Reacts
+
 
 
 ## Instalação

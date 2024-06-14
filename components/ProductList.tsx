@@ -1,4 +1,3 @@
-// components/ProductList.tsx
 import React from 'react';
 import ProductItem from './ProductItem';
 import styles from '../styles/products.module.css';

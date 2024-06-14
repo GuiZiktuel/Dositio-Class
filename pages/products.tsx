@@ -1,4 +1,3 @@
-// pages/products.tsx
 import React, { useEffect, useState } from 'react';
 import { useRouter } from 'next/router';
 import { useAuth } from '../components/auth';

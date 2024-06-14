@@ -14,7 +14,6 @@ Passos para instalar e configurar o projeto localmente:
 
 ## 1. Instale as dependências:
    ```sh
-    npm i sequelize
     npm i fastify
     npm install typescript
     npm i next.js

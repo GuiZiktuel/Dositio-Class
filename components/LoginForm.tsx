@@ -1,4 +1,3 @@
-// components/LoginForm.tsx
 import React, { useState } from 'react';
 import { useAuth } from './auth';
 import styles from '../styles/login.module.css';

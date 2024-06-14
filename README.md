@@ -22,5 +22,5 @@ Passos para instalar e configurar o projeto localmente:
     
    ```
 ## 2. Verificar no navegador:
-  Acesse http://localhost:3000/login no seu navegador. A página de login agora deve estar estilizada de acordo com os estilos definidos no arquivo login.module.css.
+  Acesse http://localhost:3000/login no seu navegador. A página de login agora deve estar estilizada de acordo com os estilos definidos no arquivo login.module.css. E Lembrando que o usuario é "admin"  e senha "password".
 
